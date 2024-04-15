@@ -9,6 +9,12 @@ console.log('***** Object Practice *****')
   - Also give it an array 'favThreeFoods'
 */
 const me = {
+  firstName: 'Adam',
+  lastName: 'Troxell',
+  hasSiblings: true,
+  shoeCount: 6,
+  favThreeFoods: ['tacos', 'pizza', 'taquitos'],
+
   // TODO - add properties here
 };
 console.log('A little about me:', me);
